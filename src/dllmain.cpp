@@ -17,7 +17,7 @@ public:
     RuneSchema() : CppUserModBase()
     {
         ModName = STR("RuneSchema");
-        ModVersion = STR("1.0.0");
+        ModVersion = STR("0.6.0");
         ModDescription = STR("Allows modifying of DragonWilds's assets dynamically.");
         ModAuthors = STR("Okaetsu");
 
